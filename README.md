@@ -1,30 +1,6 @@
----
-description: Test description.
----
+# Tagion
 
-# Initial page
+Documentation is in development. 
 
-Content of the initial [page](second.md)
-
-{% hint style="info" %}
-Hint
-{% endhint %}
-
-$$
-a = b
-$$
-
-```bash
-## Comment
-tagion_core
-```
-
-| Header 1 | Header 2 |
-| :--- | :--- |
-| 1 | 2 |
-| 3 | 4 |
-
-* [ ] List 1
-* [ ] List 2
-* [ ] List 3
+Please, come back **April, 20.**
 
