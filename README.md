@@ -4,7 +4,7 @@ description: Test description.
 
 # Initial page
 
-Content of the initial page
+Content of the initial [page](second.md)
 
 {% hint style="info" %}
 Hint

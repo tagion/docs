@@ -5,7 +5,8 @@
 
 ## Networks <a id="mainnet"></a>
 
-* [Mainnet](mainnet/mainnet.md)
+* [Mainnet](mainnet/mainnet/README.md)
+  * [API](mainnet/mainnet/api.md)
 
 ## Concepts
 
