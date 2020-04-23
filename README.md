@@ -2,5 +2,5 @@
 
 Documentation is in development. 
 
-Please, come back **April, 20.**
+Please, come back later.
 
